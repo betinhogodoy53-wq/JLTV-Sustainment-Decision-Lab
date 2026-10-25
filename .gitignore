@@ -1,0 +1,11 @@
+*.sqlite
+*.sqlite-*
+*.db
+*.bak
+*.log
+.Rhistory
+.RData
+.Rproj.user/
+.env
+.env.*
+Relatorios/

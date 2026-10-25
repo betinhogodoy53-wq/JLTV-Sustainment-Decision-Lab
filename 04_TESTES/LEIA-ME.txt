@@ -1,0 +1,10 @@
+TESTES DO CÓDIGO
+
+Os arquivos tests_*.R foram copiados da instalação original, sem alteração.
+Execute a partir da pasta 02_CODIGO, pois os testes procuram app.R no diretório de trabalho:
+
+Rscript --vanilla ../04_TESTES/tests_revision.R
+
+As demais suítes podem ter pré-requisitos próprios. Consulte seus cabeçalhos.
+A presença de uma suíte no pacote não significa que ela foi executada nesta entrega.
+Os resultados efetivamente verificados constam em 03_DOCUMENTACAO/VERIFICACAO_ENTREGA.txt.
